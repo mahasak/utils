@@ -78,6 +78,7 @@ install_cli() {
         tree
         vim
         webkit2png
+        when
         wget
         yarn
         zopfli
@@ -105,6 +106,7 @@ install_app() {
         hex-fiend
         insomnia
         istat-menus
+        keybase
         opera
         postman
         sequel-pro
